@@ -1,6 +1,6 @@
 # Admin Panel
 
-A modern and responsive Admin Dashboard built using TypeScript, SCSS, and Vite.
+A modern and responsive Admin Dashboard built using TypeScript, SCSS, and Vite. Gives visual representation of the sales, products sold frequently and complete anyalsis.
 
 ## 🚀 Features
 
